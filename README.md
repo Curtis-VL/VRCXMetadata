@@ -1,6 +1,8 @@
 # VRCXMetadata
 A VRCX photo metadata viewer
 
+![image](https://github.com/Curtis-VL/VRCXMetadata/assets/4909403/1a7d851f-251b-45a9-b2e7-4a2a62a84cee)
+
 ### Features
 
 From a photo taken with VRCX running you can:
