@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRCXMetadata", "VRCXMetadata\VRCXMetadata.csproj", "{D56503C4-4B35-4CD5-A4A6-643C445FC3B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D56503C4-4B35-4CD5-A4A6-643C445FC3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56503C4-4B35-4CD5-A4A6-643C445FC3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56503C4-4B35-4CD5-A4A6-643C445FC3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56503C4-4B35-4CD5-A4A6-643C445FC3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB5AB9B-C8FE-4A45-AB2F-70954A807D59}
+	EndGlobalSection
+EndGlobal
